@@ -15,6 +15,11 @@ Once you have an account, you will be able to allocate one of the Hack's availab
 Please make sure to follow all the pre-requisites steps in order to gain access to your allocated phone number.
 
 
+## Registration
+
+Please register here: [Vonage](https://vonage.dev/tdx-24)
+
+
 ## Prerequisites
 
 1. To follow along, ensure that you have a [Salesforce Development Org](https://developer.salesforce.com/signup) You will use this org to create the demo.
