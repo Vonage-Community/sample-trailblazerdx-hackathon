@@ -21,7 +21,7 @@ Please make sure to follow all the pre-requisites steps in order to gain access 
 
 2. We have set up Vonage accounts to facilitate quick start-up. In order to get one of those account allocated to your demo you will need first to authenticate your regular Vonage account.
 
-3. If you have already a Vonage account, continue to step 4. If you do not have yet Vonage account, click here to create an account: [Vonage Developer account]([https://ui.idp.vonage.com/ui/auth/registration](https://developer.vonage.com/en/event/trailblazer-dx-2024/register) then continue to the step 4.
+3. If you have already a Vonage account, continue to step 4. If you do not have yet Vonage account, click here to create an account: [Vonage Developer account](https://developer.vonage.com/en/event/trailblazer-dx-2024/register) then continue to the step 4.
       
 4. Once your Vonage regular account is ready then [click here](https://neru-10ba29da-hackathon-portal-dev.use1.runtime.vonage.cloud/) to retrieve an account-funded 10DLC number for the hackathon demo purposes.
 
