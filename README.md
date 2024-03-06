@@ -270,7 +270,7 @@ An Outbound **VC_Interaction__c** record fields are:
 | VC__Interaction_Media__c  |  The type of media that is used.  |  Always use "Text" |
 | VC__Interaction_Originator__c  |  Free text, to add details about the sender. This information is not sent with the outbound message but can be used later by the package for monitoring. |  It is our recommendation to populate this field with the identifier of the process which created the message. For example, if it was created by a flow - use here the flow name. |
 | VC__Interaction_Originator_Type__c  |  The type of process which created this message. Valid values are: Customer, Bot, Agent, Agent Assist |  Bot is the recommended value for messages created by flow or apex. |
-| VC__Party_Endpoint__c  |  The phone number of the customer being contacted by the brand |  For the purposes of this demo, set it to your mobile number in the international phone number format like this: 14259999999 |
+| VC__Party_Endpoint__c  |  The phone number of the customer being contacted by the brand |  Use the VC__Party_Endpoint__c  of the incoming message. |
 | VC__Thread__c  |  The Thread which owns this Interaction |  For the hackathon, use the VC__Thread__c  of the incoming message. |
 | VC__Lead__c  |  The Lead which the message is related to. |  For the hackathon, use the VC__Lead__c  of the incoming message. |
 
