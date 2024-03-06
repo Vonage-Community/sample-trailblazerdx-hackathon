@@ -256,7 +256,12 @@ And generate the answer:
 
 ![Install VCP](./Images/SendAnswerChart.PNG)
 
-The required fields are listed at the table below
+
+![Install VCP](./Images/SendAnswerChart1.PNG)
+
+
+
+**The required fields are listed at the table below**
 
 
 An Outbound **VC_Interaction__c** record fields are:
