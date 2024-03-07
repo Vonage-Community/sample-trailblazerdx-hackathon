@@ -44,12 +44,10 @@ Please register here: [Vonage](https://vonage.dev/tdx-24)
 
 ![Install VCP](./Images/NoteToLogoff.PNG) 
 
-8. Close the tab:
+Keep this information handy as you'll need it later. 
 
 ![Install VCP](./Images/Logout.PNG)    
 
-
- 
 
 ## Installing the package
 
