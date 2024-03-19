@@ -5,49 +5,13 @@
 
 With [Vonage Conversations for Salesforce](https://www.vonage.com/communications-apis/conversations-salesforce/), you can turn your Salesforce into a personalized engagement tool and reach customers at scale across SMS, MMS, and WhatsApp from the Salesforce CRM — and seamlessly blend bots and agents too!
 
-In this Mini-Hack, we are going to install it through the Salesforce AppExchange and send an SMS notification directly inside of Salesforce! As a bonus, if you complete the flow section, then you will get an additional prize. Let’s get started. 
-
-## Mini-Hack Overview
-
-On the following steps you will be asked to create a Vonage user account.
-Once you have an account, you will be able to allocate one of the Hack's available phone numbers. This phone number is already configured as 10DLC and funded. You can use it as part of the hack for sending and receiving MMS/SMS messages in USA.
-
-Please make sure to follow all the pre-requisites steps in order to gain access to your allocated phone number.
-
-
-## Registration
-
-Please register here: [Vonage](https://vonage.dev/tdx-24)
-
+In this Mini-Hack, we are going to install it through the Salesforce AppExchange and send an SMS notification directly inside of Salesforce! 
 
 ## Prerequisites
 
 1. To follow along, ensure that you have a [Salesforce Development Org](https://developer.salesforce.com/signup) You will use this org to create the demo.
 
-2. We have set up Vonage accounts to facilitate quick start-up. In order to get one of those account allocated to your demo you will need first to authenticate your regular Vonage account.
-
-3. If you have already a Vonage account, continue to step 4. If you do not have yet a Vonage account, click [here](https://developer.vonage.com/en/event/trailblazer-dx-2024/register) to create an account.
-      
-4. Once your Vonage regular account is ready then [click here](https://neru-10ba29da-hackathon-portal-dev.use1.runtime.vonage.cloud/) to retrieve an account-funded 10DLC number for the hackathon demo purposes.
-
-![Install VCP](./Images/WelcomeTDX.PNG)
-
-5. Login to Vonage using your regular Vonage account:
-
-![Install VCP](./Images/LoginToVonageWithRealUser.PNG)  
-
-6. Once logged in, you will be presented with your **Hackathon demo account** details. Please take note as you will need it later for your demo setup:
-
-![Install VCP](./Images/MyDemoAccountDetails.PNG) 
-
-7. **Please notice to log off** from the registration portal before continuing to the package installation.
-
-![Install VCP](./Images/NoteToLogoff.PNG) 
-
-Keep this information handy as you'll need it later. 
-
-![Install VCP](./Images/Logout.PNG)    
-
+2. Create a [Vonage Developer Account](https://developer.vonage.com/) and ensure you are using a 10DLC number. 
 
 ## Installing the package
 
